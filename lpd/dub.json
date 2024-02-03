@@ -1,0 +1,6 @@
+{
+    "name": "lpd",
+    "targetName": "lpd",
+    "targetType": "staticLibrary",
+    "targetPath": "lib"
+}
